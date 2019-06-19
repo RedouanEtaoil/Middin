@@ -4,4 +4,10 @@
     <string name="man">Image</string>
     <string name="textView2">Voor al uw zorgen.</string>
     <string name="logo">Image</string>
+    <string name="button1">Volgende Pagina</string>
+    <string name="button2">InstructiePagina</string>
+    <string name="ballonnentext">Ballonnen blazen</string>
+    <string name="x10">x10</string>
+    <string name="video"></string>
+    <string name="links"></string>
 </resources>
