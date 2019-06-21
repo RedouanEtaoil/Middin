@@ -10,4 +10,7 @@
     <string name="x10">x10</string>
     <string name="video"></string>
     <string name="links"></string>
+    <string name="instructieknop">Instructiescherm</string>
+    <string name="ballonnenblazeninstructie">Knijp het tuitje van de ballon met je wijsvinger en duim vast, Gebruik je lippen om een afdichting te vormen rond de opening van de ballon. Blaas in de ballon. Dit is dezelfde actie zoals wanneer je gewoon met opgebolde wangen blaast, maar nu in de ballon, en je wangen moeten ontspannen zijn</string>
+    <string name="ballonnenx10">Ballonnen blazen x10</string>
 </resources>
