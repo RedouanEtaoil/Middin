@@ -7,12 +7,12 @@ import android.os.Bundle;
 import android.widget.MediaController;
 import android.widget.VideoView;
 
-public class Instructiescherm extends AppCompatActivity {
+public class kaarsinstructie extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_instructiescherm);
+        setContentView(R.layout.activity_kaarsinstructie);
 
         VideoView videoView= findViewById(R.id.video_view);
         String videoPath="android.resource://" + getPackageName() + "/" + R.raw.blazen;
