@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/instructieschermbackground"
+    android:background="@drawable/background"
     tools:context=".kaarsinstructie">
 
     <TextView
@@ -13,14 +13,14 @@
         android:layout_height="311dp"
         android:layout_marginBottom="8dp"
         android:text="@string/kaarsinstructie"
-        android:textColor="@android:color/white"
+        android:textColor="@android:color/black"
         android:textSize="30sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.588"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.873" />
+        app:layout_constraintVertical_bias="0.9" />
 
     <ImageView
         android:contentDescription="@string/kaarsbutton"

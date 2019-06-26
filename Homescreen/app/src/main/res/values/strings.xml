@@ -17,4 +17,6 @@
     <string name="kaarsbutton"></string>
     <string name="kaarstekst">Probeer een kaars aan te steken!</string>
     <string name="kaarsinstructie">Pak een lucifer en houd dit tegen het lontje van de kaars aan en de kaars zal branden.</string>
+    <string name="images"></string>
+    <string name="ikziewatjijnietziet">Speel de spel, ik zie ik zie wat jij niet ziet!</string>
 </resources>

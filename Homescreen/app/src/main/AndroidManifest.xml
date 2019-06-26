@@ -9,7 +9,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".kaarsinstructie"></activity>
+        <activity android:name=".ikziewatjijnietzietinstructie"></activity>
+        <activity android:name=".ikziewatjijnietziet" />
+        <activity android:name=".kaarsinstructie" />
         <activity android:name=".kaarsactiviteit" />
         <activity android:name=".Instructiescherm" />
         <activity android:name=".Instructie" />
