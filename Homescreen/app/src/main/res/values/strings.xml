@@ -19,4 +19,7 @@
     <string name="kaarsinstructie">Pak een lucifer en houd dit tegen het lontje van de kaars aan en de kaars zal branden.</string>
     <string name="images"></string>
     <string name="ikziewatjijnietziet">Speel de spel, ik zie ik zie wat jij niet ziet!</string>
+    <string name="ikziewatjijnietzietinstructies">Ik zie, ik zie wat jij niet ziet is een spel waarbij een voorwerp moet worden geraden, die een van de spelers in gedachten heeft. Het enige kenmerk dat hij geeft is de kleur. ⁕Ik zie, ik zie wat jij niet ziet en de kleur is... rood. ...</string>
+    <string name="steenpapierschaar">Probeer de spel, steen papier schaar!</string>
+    <string name="steenpapierschaarinstructies">een vuist (steen) wint van twee gespreide vingers (de steen maakt de schaar bot) een vlakke hand (papier) wint van een vuist (het papier bedekt de steen) twee gespreide vingers (schaar) winnen van een vlakke hand (de schaar verknipt het papier)</string>
 </resources>

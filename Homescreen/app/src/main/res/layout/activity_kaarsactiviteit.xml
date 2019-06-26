@@ -11,16 +11,13 @@
         android:id="@+id/button3"
         android:layout_width="93dp"
         android:layout_height="77dp"
-        android:layout_marginStart="328dp"
-        android:layout_marginLeft="328dp"
-        android:layout_marginTop="16dp"
-        android:layout_marginBottom="627dp"
+        android:layout_marginStart="317dp"
+        android:layout_marginLeft="317dp"
+        android:layout_marginTop="638dp"
         android:contentDescription="@string/kaarsbutton"
         android:text="@string/instructieknop"
-        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.0" />
+        app:layout_constraintTop_toTopOf="parent" />
 
     <ImageView
         android:id="@+id/imageView4"
