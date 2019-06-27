@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".steenpapierschaarinstructies"></activity>
+        <activity android:name=".pittenzakjes"></activity>
+        <activity android:name=".steenpapierschaarinstructies" />
         <activity android:name=".steenpapierschaar" />
         <activity android:name=".ikziewatjijnietzietinstructie" />
         <activity android:name=".ikziewatjijnietziet" />
